@@ -9,8 +9,8 @@ public class Solution {
         bool flagD1 = false; 
         bool flagD2 = false; 
 
-        if (divisor < 0) { divisor = -divisor; flagD2 = true; } 
-        if (dividend < 0) { dividend = -dividend; flagD1 = true; }
+        if (divisor < 0) {  flagD2 = true; } 
+        if (dividend < 0) { flagD1 = true; }
        
         long a = Math.Abs((long)dividend);
         long b = Math.Abs((long)divisor);
