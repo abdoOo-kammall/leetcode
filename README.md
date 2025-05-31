@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abdoOo-kammall/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [2058-concatenation-of-array](https://github.com/abdoOo-kammall/leetcode/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -36,4 +37,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/abdoOo-kammall/leetcode/tree/master/0029-divide-two-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abdoOo-kammall/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abdoOo-kammall/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
