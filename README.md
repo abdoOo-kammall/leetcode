@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/abdoOo-kammall/leetcode/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/abdoOo-kammall/leetcode/tree/master/2058-concatenation-of-array) |
 ## String
 |  |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/abdoOo-kammall/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/abdoOo-kammall/leetcode/tree/master/0029-divide-two-integers) |
 | [0204-count-primes](https://github.com/abdoOo-kammall/leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/abdoOo-kammall/leetcode/tree/master/0258-add-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -61,4 +63,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abdoOo-kammall/leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/abdoOo-kammall/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
