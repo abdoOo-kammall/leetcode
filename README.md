@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/abdoOo-kammall/leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/abdoOo-kammall/leetcode/tree/master/0415-add-strings) |
 | [2058-concatenation-of-array](https://github.com/abdoOo-kammall/leetcode/tree/master/2058-concatenation-of-array) |
 ## String
 |  |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/abdoOo-kammall/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/abdoOo-kammall/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abdoOo-kammall/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0415-add-strings](https://github.com/abdoOo-kammall/leetcode/tree/master/0415-add-strings) |
 ## Trie
 |  |
 | ------- |
@@ -40,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/abdoOo-kammall/leetcode/tree/master/0029-divide-two-integers) |
 | [0204-count-primes](https://github.com/abdoOo-kammall/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/abdoOo-kammall/leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/abdoOo-kammall/leetcode/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
