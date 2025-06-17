@@ -9,12 +9,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/abdoOo-kammall/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0204-count-primes](https://github.com/abdoOo-kammall/leetcode/tree/master/0204-count-primes) |
 | [2058-concatenation-of-array](https://github.com/abdoOo-kammall/leetcode/tree/master/2058-concatenation-of-array) |
+| [3226-minimum-number-game](https://github.com/abdoOo-kammall/leetcode/tree/master/3226-minimum-number-game) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/abdoOo-kammall/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/abdoOo-kammall/leetcode/tree/master/0415-add-strings) |
 | [2058-concatenation-of-array](https://github.com/abdoOo-kammall/leetcode/tree/master/2058-concatenation-of-array) |
+| [3226-minimum-number-game](https://github.com/abdoOo-kammall/leetcode/tree/master/3226-minimum-number-game) |
 ## String
 |  |
 | ------- |
@@ -81,4 +83,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abdoOo-kammall/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Sorting
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/abdoOo-kammall/leetcode/tree/master/3226-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/abdoOo-kammall/leetcode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
