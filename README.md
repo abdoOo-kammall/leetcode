@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/abdoOo-kammall/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/abdoOo-kammall/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/abdoOo-kammall/leetcode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/abdoOo-kammall/leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/abdoOo-kammall/leetcode/tree/master/0415-add-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/abdoOo-kammall/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/abdoOo-kammall/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abdoOo-kammall/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abdoOo-kammall/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/abdoOo-kammall/leetcode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/abdoOo-kammall/leetcode/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -107,4 +109,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/abdoOo-kammall/leetcode/tree/master/3226-minimum-number-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/abdoOo-kammall/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
