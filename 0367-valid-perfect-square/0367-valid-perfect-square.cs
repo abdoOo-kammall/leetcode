@@ -1,13 +1,18 @@
 public class Solution {
     public bool IsPerfectSquare(int num) {
-        if (num < 1) return false;
+        long left = 1, right = num;
 
-        double log10 = Math.Log10(num);
-        double logHalf = log10 / 2.0;
+        while (left <= right) {
+            long mid = (left + right) / 2;
+            long square = mid * mid;
 
-        double root = Math.Pow(10, logHalf); // this should be the square root
-        int rounded = (int)Math.Round(root);
+            if (square == num) return true;
+            if (square > num)
+                right = mid - 1;
+            else
+                left = mid + 1;
+        }
 
-        return rounded * rounded == num;
+        return false;
     }
 }
