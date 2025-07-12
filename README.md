@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/abdoOo-kammall/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/abdoOo-kammall/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/abdoOo-kammall/leetcode/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/abdoOo-kammall/leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/abdoOo-kammall/leetcode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/abdoOo-kammall/leetcode/tree/master/0415-add-strings) |
 ## Bit Manipulation
@@ -117,4 +118,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/abdoOo-kammall/leetcode/tree/master/0392-is-subsequence) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/abdoOo-kammall/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/abdoOo-kammall/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
