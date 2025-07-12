@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/abdoOo-kammall/leetcode/tree/master/0029-divide-two-integers) |
 | [0168-excel-sheet-column-title](https://github.com/abdoOo-kammall/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/abdoOo-kammall/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/abdoOo-kammall/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/abdoOo-kammall/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/abdoOo-kammall/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/abdoOo-kammall/leetcode/tree/master/0263-ugly-number) |
