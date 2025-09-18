@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/abdoOo-kammall/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/abdoOo-kammall/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/abdoOo-kammall/leetcode/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/abdoOo-kammall/leetcode/tree/master/0504-base-7) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/abdoOo-kammall/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/abdoOo-kammall/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Trie
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/abdoOo-kammall/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/abdoOo-kammall/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/abdoOo-kammall/leetcode/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/abdoOo-kammall/leetcode/tree/master/0504-base-7) |
 ## Bit Manipulation
 |  |
 | ------- |
