@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/abdoOo-kammall/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/abdoOo-kammall/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/abdoOo-kammall/leetcode/tree/master/0415-add-strings) |
 | [2058-concatenation-of-array](https://github.com/abdoOo-kammall/leetcode/tree/master/2058-concatenation-of-array) |
 | [3226-minimum-number-game](https://github.com/abdoOo-kammall/leetcode/tree/master/3226-minimum-number-game) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/abdoOo-kammall/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/abdoOo-kammall/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/abdoOo-kammall/leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/abdoOo-kammall/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/abdoOo-kammall/leetcode/tree/master/0415-add-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/abdoOo-kammall/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/abdoOo-kammall/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/abdoOo-kammall/leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/abdoOo-kammall/leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/abdoOo-kammall/leetcode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/abdoOo-kammall/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/abdoOo-kammall/leetcode/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
