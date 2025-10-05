@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abdoOo-kammall/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/abdoOo-kammall/leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/abdoOo-kammall/leetcode/tree/master/0204-count-primes) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/abdoOo-kammall/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2058-concatenation-of-array](https://github.com/abdoOo-kammall/leetcode/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/abdoOo-kammall/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3226-minimum-number-game](https://github.com/abdoOo-kammall/leetcode/tree/master/3226-minimum-number-game) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/abdoOo-kammall/leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/abdoOo-kammall/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/abdoOo-kammall/leetcode/tree/master/0507-perfect-number) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/abdoOo-kammall/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -133,4 +135,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/abdoOo-kammall/leetcode/tree/master/0292-nim-game) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/abdoOo-kammall/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
